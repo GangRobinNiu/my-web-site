@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+  }
+
+  label, input, button {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+  }
+  
+  #result {
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 1.4rem;
+  }
